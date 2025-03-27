@@ -1,0 +1,18 @@
+2025-03-27 23:38:38,612 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-03-27 23:38:49,589 [INFO] django.utils.autoreload: C:\Users\nareshgowda.dp\Desktop\Library_project\library_project\library_project\settings.py changed, reloading.
+2025-03-27 23:38:51,081 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-03-27 23:39:03,174 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-03-27 23:39:38,614 [INFO] library.views: User 'adminuser' logged in successfully.
+2025-03-27 23:39:38,630 [INFO] django.server: "POST /api/login/ HTTP/1.1" 200 483
+2025-03-27 23:40:40,587 [INFO] django.utils.autoreload: C:\Users\nareshgowda.dp\Desktop\Library_project\library_project\library_project\settings.py changed, reloading.
+2025-03-27 23:40:41,823 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-03-27 23:40:43,849 [INFO] django.utils.autoreload: C:\Users\nareshgowda.dp\Desktop\Library_project\library_project\library_project\settings.py changed, reloading.
+2025-03-27 23:40:45,105 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-03-27 23:40:53,442 [INFO] django.utils.autoreload: C:\Users\nareshgowda.dp\Desktop\Library_project\library_project\library_project\settings.py changed, reloading.
+2025-03-27 23:40:54,683 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-03-27 23:41:00,177 [INFO] django.utils.autoreload: C:\Users\nareshgowda.dp\Desktop\Library_project\library_project\library_project\settings.py changed, reloading.
+2025-03-27 23:41:01,396 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-03-27 23:41:04,517 [INFO] django.utils.autoreload: C:\Users\nareshgowda.dp\Desktop\Library_project\library_project\library_project\settings.py changed, reloading.
+2025-03-27 23:41:05,947 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-03-27 23:41:11,490 [INFO] django.utils.autoreload: C:\Users\nareshgowda.dp\Desktop\Library_project\library_project\library_project\settings.py changed, reloading.
+2025-03-27 23:41:12,636 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
